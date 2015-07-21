@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 node_modules/
+=======
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+>>>>>>> 3bd8ec06d0ff5191b7bf71238ff3ad63e7965e3d
