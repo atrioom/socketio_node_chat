@@ -1,0 +1,13 @@
+{
+    "name": "chat_server",
+    "description": "practicing node socket",
+    "author": "atripes",
+    "private": "true",
+    "main": "index",
+    "devDependencies": {
+        "winston": "latest",
+        "socket.io":"0.9.6",
+        "express":"2.5.9",
+        "jade":"0.25.0"
+    }
+}
